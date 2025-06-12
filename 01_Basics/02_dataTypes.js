@@ -28,6 +28,7 @@ let age = 24;
 
 // Primitive
 // 7 types : Number, String, Boolean, null, undefined, BigInt, Symbol
+
 const score = 40;//number
 const scoreValue = 40.67;
 const isLoggedIn = false;
