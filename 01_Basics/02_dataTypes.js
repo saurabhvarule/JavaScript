@@ -7,7 +7,6 @@ console.log(3
     3); // code reability should be high
 console.log("Saurabh");
 
-
 let name = "Saurabh";
 let age = 24;
 //let isLoggedIn = false;
@@ -89,6 +88,3 @@ console.log(typeof myFunction);
 myFunction();
 console.log(typeof myInfo);
 myInfo();
-
-
-
