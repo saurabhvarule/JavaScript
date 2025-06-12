@@ -17,7 +17,7 @@ console.log(accountstate)
 
 console.table([accountEmail,accountId,accountPass,accountCity])
 
-/*
+/* 
 prefer not to use var 
 bacuase of issue in block scope and functional scope
 */
